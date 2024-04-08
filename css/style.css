@@ -161,4 +161,18 @@ img {
         padding-bottom: 20px;
     }
 
+    .why-us .row {
+        display: flex;
+        flex-wrap: wrap;
+    }
+
+    .why-us .col-left {
+        width: 100%;
+        padding-bottom: 20px;
+    }
+
+    .why-us .col-right {
+        width: 100%;
+    }
+
 }
