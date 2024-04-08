@@ -149,6 +149,7 @@ img {
     .steps,
     .why-us {
         padding: 20px 0px;
+        margin-bottom: 0;
     }
 
     .steps .row {
@@ -162,7 +163,6 @@ img {
     }
 
     .why-us .row {
-        display: flex;
         flex-wrap: wrap;
     }
 
